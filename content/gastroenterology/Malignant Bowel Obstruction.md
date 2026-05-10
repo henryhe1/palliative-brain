@@ -1,9 +1,9 @@
 ---
 title: Malignant Bowel Obstruction
 tags:
-  - gastroenterology
-  - symptom-management
+  - GI
   - oncology
+  - symptom
 created: 2026-05-10
 updated: 2026-05-10
 anchor:
