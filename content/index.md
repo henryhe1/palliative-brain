@@ -2,27 +2,25 @@
 title: Palliative Brain
 ---
 
-# Palliative Brain
+Palliative Brain is a living educational resource designed to support learning and bedside clinical reasoning in palliative medicine.
 
-A practical bedside knowledge network for palliative medicine.
+It was first created in May 2026 by [Henry He](https://henryhe.me) in an effort to increase the usefulness of his notes, and also so that he didn't have to sign in to his Notion account each time he was at a new computer. It is partially inspired by the Palliative Care Network of Wisconsin's [Fast Facts](https://www.mypcnow.org/fast-facts/) series created by Dr. Sean Marks.
 
-## Search
+The website was built using [Quartz 4](https://quartz.jzhao.xyz/).
 
-Use the search bar above to rapidly retrieve:
+### Philosophy
 
-- drug information
-- symptom management
-- prognostication
-- communication frameworks
-- oncology emergencies
-- opioid pearls
-- procedural guidance
+The goal of Palliative Brain is not encyclopedic completeness. The goal is fast, clinically useful, and evidence-based cognitive support, with deep dives available when needed. 
+
+ Content is written primarily in the Canadian context, with sources including palliative medicine textbooks, peer-reviewed publications, and [OpenEvidence](https://www.openevidence.com/). Citations are provided whenever possible. 
+### Disclaimer
+ 
+ Palliative Brain is not a substitute for clinical judgment, specialist consultation, institutional policies, or individualized patient care. Recommendations and summaries may evolve over time and should always be interpreted within the context of current evidence, local practice standards, and patient-specific circumstances. Use of this resource is at the reader’s own discretion and responsibility.
 
 ---
+## Categories
 
-# Categories
-
-## Palliative Core
+### Palliative Core
 
 - [[symptom-management/index|Symptom Management]]
 - [[pain-management/index|Pain Management]]
@@ -31,7 +29,7 @@ Use the search bar above to rapidly retrieve:
 - [[legal-systems/index|Legal & Systems Navigation]]
 - [[ethics/index|Ethics]]
 
-## Clinical Domains
+### Clinical Domains
 
 - [[oncology/index|Oncology]]
 - [[neurology/index|Neurology]]
@@ -50,12 +48,3 @@ Use the search bar above to rapidly retrieve:
 - [[radiation/index|Radiation]]
 - [[procedures/index|Procedures]]
 
----
-
-# Principles
-
-- Fast bedside retrieval
-- Evidence-informed summaries
-- Deep dives when needed
-- Bidirectional conceptual linking
-- Practical palliative medicine

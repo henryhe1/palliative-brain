@@ -1,8 +1,8 @@
 ---
-title:
+title: {{title}}
 tags:
   -
-created:
+created: {{date}} 
 updated:
 anchor:
   -
