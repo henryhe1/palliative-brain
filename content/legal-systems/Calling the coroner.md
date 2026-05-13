@@ -8,6 +8,14 @@ anchor:
 aliases: 
 draft: false
 ---
+# Quick Hits
+
+> [!summary]
+> - Call coroner (ON: 1-855-299-4100) for any unnatural or sudden/unexpected death, reportable death (pregnancy, group home, custody), or if there is significant concern that may require investigation (ie from family)
+> - Not every coroner's case needs an autopsy
+> - Surgery within 28 days is NOT an automatic coroner's case
+
+---
 
 Dr. Jennifer Tang
 - jennifer.tang1@ontario.ca
@@ -33,7 +41,7 @@ Dr. Jennifer Tang
 
 # What to say
 
-- Who to call? MD or NP preferred
+- Who should call? MD or NP preferred
 - Decedent ID (spelling) and DOB
 - Date and time pronounced
 - TGOL if applicable
@@ -67,10 +75,10 @@ Dr. Jennifer Tang
 	- Trick question. Don't fill it out, call the coroner
 	- Call dispatch, wait to hear back from coroner physician, coroner attends the hospital and examines the body. Injuries are well imaged and documented, no need for autopsy, body released to funeral home. Chart reviewed, coroner speakers to the family, family expresses concerns regarding care. Coroner reviewed LTC chart, falls risk assessment, actually watches the fall on video tape
 	- COD: Urosepsis, complications of right hip #, fall from standing height. Manner of death: ACCIDENT
-	- recommendation to hospital to do quality of care review
+	- recommendation to LTC to do quality of care review
 	- final report released to family in 2-3 mo
 	- affects vital statistics, life insurance consequences
-- Patients declining of natural causes (like cancer or end stage organ failure), or a path #, and they have a fall in hospital or home. Maybe they stumbled, maybe they hit their head, maybe they are on a DOAC. Talk it through, "how much do you think it investigated?" 
+- Patients declining of natural causes (like cancer or end stage organ failure), or a path #, and they have a fall in hospital or home. Maybe they stumbled, maybe they hit their head, maybe they are on a DOAC. Jennifer Tang's advice: call coroner and talk it through, "how much do you think it contributed to the death?" 
 	- if unsure, Coroner would probably take the case, could do a CT of the head to confirm
 - 55M with end stage cancer, receiving pall care at home via pall nursing and fam doc. Had increasing symptoms, had symptom response kit. 
 	- dosage of HM ordered was 0.5-1mg subcut q4-6h, but concentration was 10mg/mL.
@@ -82,7 +90,7 @@ Dr. Jennifer Tang
 	- Post mortem CT and toxicology performed (no autopsy)
 	- COD: HM toxicity in a patient with end stage cancer
 	- Manner of death: undetermined (worded this way in the context of therapeutic misadventure)
-	- Quality of Care review, of the pharmacy (should not have processed this order if the dose was 0.5-1mg), lots of learning from this case. Family very grateful that this was investigated, agreed for this case to be shared for learning. 
+	- Quality of Care review, of the pharmacy (should not have processed this order of 10mg/mL concentration if the dose was 0.5-1mg), lots of learning from this case. Family very grateful that this was investigated, agreed for this case to be shared for learning. 
 - CREMATION death certificates are actually reviewed by coroners
 	- COD listed as "respiratory failure" but section 2 had "GSW to neck 15 years ago" and listed as "natural". 
 	- Coroner calls funeral home and issues a warrant to take possession of the body, coroner contacts police service from 15years ago, autopsy ordered and bullet recovered from the spine (previously unable to due to risk of patient death)
@@ -94,7 +102,7 @@ Dr. Jennifer Tang
 
 # Mythbusters
 
-- getting the coroner involved in scary
+- getting the coroner involved is scary
 - the coroner performs the autopsies (forensic pathologists)
 - every coroner's case needs/will receive an autopsy (they also have their CT if needed, tox reports, recent CTs in hospital for fractures, sometimes families decline autopsy due to religious/cultural reasons)
 - surgery within 28 days is an automatic coroner's case... not true even though it's on the death certificate
@@ -112,11 +120,11 @@ Dr. Jennifer Tang
 - a public hearing into a death, ensures that the circumstances of a death are known (the 5 W's)
 * multiple death review committees: construction, pediatric, maternal and perinatal, geriatric and LTC, domestic violence, patient safety
 * opioid tox deaths, guide public policy for example, death prevention
-- Ie Heather Winterstein inquest - her care in the ED at St Catherines, racism or anti-indiginous discrimination 
+- Ie Heather Winterstein inquest - her care in the ED at St Catherines, racism or anti-indigenous discrimination 
 - 2015: Seven Fallen Feathers Inquest in Thunder Bay
 - 2022: Working at Heights inquest, occupational legislation
 - 2019: Radiohead Stage Collapse in Toronto
-- 2024: Barton Street Jail Inquest of 2024
+- 2024: Barton Street Jail Inquest
 - 2015: Rowan Stringer Inquest into concussion (rugby, died from second hit syndrome)
 - 2007 Lori Dupont inquest, domestic violence and violence in the workplace
 
