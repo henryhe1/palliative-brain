@@ -11,6 +11,7 @@ anchor:
   - https://pubmed.ncbi.nlm.nih.gov/40610042/
 aliases:
   - Discontinuation Syndrome
+done for now: no
 ---
 
 # Quick Hits
