@@ -1,9 +1,7 @@
 ---
-title:
-  "{ title }": 
-tags: 
+title: 
+tags: []
 created:
-  "{ date }": 
 updated: 
 anchor: 
 aliases: 
