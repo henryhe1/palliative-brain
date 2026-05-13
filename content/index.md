@@ -13,6 +13,11 @@ The website was built using [Quartz 4](https://quartz.jzhao.xyz/).
 The goal of Palliative Brain is not encyclopedic completeness. The goal is fast, clinically useful, and evidence-based cognitive support, with deep dives available when needed. 
 
  Content is written primarily in the Canadian context, with sources including palliative medicine textbooks, peer-reviewed publications, and [OpenEvidence](https://www.openevidence.com/). Citations are provided whenever possible. 
+ 
+ Notes are generally written using the "RAME" framework: *Recognize, Assess, Manage and Anticipate, and Evidence*. This is an acronym I made up, but very much in the spirit of what a mentor of mine loved to preach: 
+
+> [!quote] The key to good symptom management is good symptom assessment.
+> -- Dr. Alan Taniguchi
 ### Disclaimer
  
  Palliative Brain is not a substitute for clinical judgment, specialist consultation, institutional policies, or individualized patient care. Recommendations and summaries may evolve over time and should always be interpreted within the context of current evidence, local practice standards, and patient-specific circumstances. Use of this resource is at the reader’s own discretion and responsibility.
