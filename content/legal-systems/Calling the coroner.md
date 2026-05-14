@@ -14,6 +14,7 @@ draft: false
 > - Call coroner (ON: 1-855-299-4100) for any unnatural or sudden/unexpected death, reportable death (pregnancy, group home, custody), or if there is significant concern that may require investigation (ie from family)
 > - Not every coroner's case needs an autopsy
 > - Surgery within 28 days is NOT an automatic coroner's case
+> - If it's a coroner's case, do NOT fill out death certificate
 
 ---
 
