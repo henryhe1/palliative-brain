@@ -23,7 +23,7 @@ done for now: yes
 > - Similar to opioid/benzo withdrawal but without drug craving reinforcing effects
 > - TCA and SNRI discontinuation can also overlap with cholinergic and noradrenergic rebound respectively
 > - Biggest risk factor is half life: paroxetine, venlafaxine, duloxetine worst; fluoxetine best by long shot due to active metabolite norfluoxetine leading to effective half-life on the order of weeks
-> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome and preventing relapse. 
+> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome and preventing relapse. 
 > - Fluoxetine substitution protocol (2025): gradual taper to lowest tolerable dose that is commercially available (ie by 50% q4wks), then start prozac 5mg/day for 4 weeks, then taper original SRI off and wait 4 weeks, then taper off the fluoxetine to once weekly (can also self-taper ie if losing PO access)
 
 ---
