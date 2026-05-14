@@ -7,6 +7,7 @@ anchor:
 aliases: 
 draft: true
 ---
+> npm run quartz -- build --serve
 
 **Optimal structure per note**
 

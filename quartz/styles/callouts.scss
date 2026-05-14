@@ -12,7 +12,9 @@
   & > .callout-content {
     display: grid;
     transition: grid-template-rows 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
-    overflow: hidden;
+    overflow: visible;
+    overflow-wrap: break-word;
+    word-break: break-word;
 
     & > :first-child {
       margin-top: 0;
