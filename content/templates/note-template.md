@@ -52,42 +52,43 @@ Practical test: if you'd realistically look up two things simultaneously in a cl
 
 ---
 
-# Common Regimens
+# Recognize and Assess
 
-| Drug | Dose | Notes |
-|---|---|---|
-|  |  |  |
+## Definitions
+- 
+
+## Onset and Duration
+- 
+
+## Symptoms
+- 
+
+## DDx
+- 
+
+# Anticipate
+
+## Risk Factors
+- 
+
+
+# Manage
+
+
+## Complications
+- 
+
 
 ---
 
-# Clinical Pearls
-
--
--
--
-
----
-
-# Deep Dive
+# Deeper Dive
 
 ## Pathophysiology
 
 
-## Evidence
+## Trials
 
 
-## Practical Considerations
-
-
-## Prognosis
-
-
----
-
-# Related
-
-- [[]]
-- [[]]
 
 ---
 
