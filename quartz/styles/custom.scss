@@ -1,3 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Fix callout overflow on mobile/small screens
+.callout {
+  overflow: visible;
+}
+
+.callout-content {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.callout-content ul {
+  padding-right: 0.5rem; // prevents list items from hugging the edge
+}
