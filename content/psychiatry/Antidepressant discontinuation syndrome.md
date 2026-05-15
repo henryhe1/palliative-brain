@@ -19,12 +19,13 @@ done for now: yes
 
 > [!summary]
 > - Antidepressant discontinuation syndrome is characterized by the FINISH mnemonic, with the "core" symptoms being "ISH": dizziness (imbalance), brain zaps (sensory disturbances), irritability/agitation and anxiety/nervousness (hyperarousal)
-> - They happen after abrupt cessation or marked reduction in dose in a chronic (>1 mo) antidepressant, onset within 2-4 days of stopping and can last weeks up to months. 
-> - Similar to opioid/benzo withdrawal but without drug craving reinforcing effects
+> - They happen after abrupt cessation or marked reduction in dose in a chronic (>1 mo) antidepressant, onset within 2-4 days of stopping and can last weeks up to months, or even years in the case of protracted withdrawal
+> - Similar to opioid/benzo withdrawal (physical dependence) but without drug craving reinforcing effects (psychological dependence)
 > - TCA and SNRI discontinuation can also overlap with cholinergic and noradrenergic rebound respectively
 > - Biggest risk factor is half life: paroxetine, venlafaxine, duloxetine worst; fluoxetine best by long shot due to active metabolite norfluoxetine leading to effective half-life on the order of weeks
-> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome and preventing relapse. 
+> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic or proportionate dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome and preventing relapse. Similar principles to benzos, opioids, Z-drugs, gabapentinoids, antipsychotics, mood stabilizers,  beta blockers, PPIs. 
 > - Fluoxetine substitution protocol (2025): gradual taper to lowest tolerable dose that is commercially available (ie by 50% q4wks), then start prozac 5mg/day for 4 weeks, then taper original SRI off and wait 4 weeks, then taper off the fluoxetine to once weekly (can also self-taper ie if losing PO access)
+
 
 ---
 
@@ -35,7 +36,10 @@ done for now: yes
 - "To qualify as antidepressant discontinuation syndrome, the symptoms should not have been present before the antidepressant dosage was reduced and are not better explained by another mental disorder (e.g., manic or hypomanic episode, substance intoxication, substance withdrawal, somatic symptom disorder)." [DSM-V]
 - "Discontinuation symptoms may occur following treatment with tricyclic antidepressants (e.g., imipramine, amitriptyline, desipramine), serotonin reuptake inhibitors (e.g., fluoxetine, paroxetine, sertraline), and monoamine oxidase inhibitors (e.g., phenelzine, selegiline, pargyline)." [DSM-V]
 - "The prevalence of antidepressant discontinuation syndrome is unknown but is thought to vary according to the dosage prior to discontinuation, the half-life and receptor-binding affinity of the medication, and possibly the individual’s genetically influenced rate of metabolism for this medication." [DSM-V]
-- The longer you use them, the more common and long lasting the withdrawal syndrome can be. 
+- Official guidance prior to 2019 [Mark Horowitz]
+	- CANMAT: "withdrawal effects are mild to moderate in severity and resolve within a few weeks". The 2024 update of Canadian depression guidelines (CANMAT) recognized that “_up to 50% of patients may experience discontinuation symptoms when stopping long-term use of antidepressants, especially with abrupt stopping_.”
+	- Influenced by papers produced by drug companies in the 1990s, which focused on people who had used antidepressants for 8-12 weeks. Then at a consensus panel organised by an antidepressant manufacturer, the euphemism 'discontinuation symptoms' was coined, and numerous papers with the description 'brief and mild' were attributed to clinicians. 
+	- But we know that the longer you use them, the more you adapt to them, the more severe and common and long lasting the withdrawal syndrome can be, so this guidance can be very misleading. Most people who use it in real life are using it for years and decades. "kind of like a car company testing a car crash at 5 km/h and saying it is safe at 60km/h" 
 
 ## Onset and Duration
 
@@ -44,6 +48,7 @@ done for now: yes
 - "Antidepressant discontinuation symptoms usually resolve within 1 to 2 weeks without treatment." [APA Guidelines]
 - Generally **peak at 1–2 weeks** following cessation (except for fluoxetine, where the long half-life delays and attenuates the peak). 
 - Duration: symptoms are usually self-limited, **typically lasting about a week**, but *can persist for weeks to months in some individuals*, particularly after abrupt discontinuation of short half-life agents.
+	- Protracted antidepressant withdrawal syndrome on the order of years!
 - "The antidepressant discontinuation syndrome is based solely on pharmacological factors and is not related to the reinforcing effects of an antidepressant." [DSM-V]
 
 ## Symptoms
@@ -55,18 +60,26 @@ done for now: yes
 	- INSOMNIA: Sleep disturbance, vivid/disturbing dreams, increased dreaming.  Most commonly rated "severe" on DESS
 	- NAUSEA: Nausea, vomiting, diarrhea, decreased appetite. Nausea was the 2nd most common symptom: OR 3.16 (95% CI 2.01–4.96)
 	- IMBALANCE: Dizziness, vertigo, lightheadedness, ataxia/unsteady gait. Dizziness was the single most common symptom (OR 5.52), likely related to serotonin's effects on the vestibular system
-	- SENSORY DISTURBANCES: "Brain zaps"/electric shock sensations, paresthesias, tinnitus, visual disturbances. "Frequently reported sensory and somatic symptoms include flashes of lights, “electric shock” sensations, nausea, and hyperresponsivity to noises or lights. Nonspecific anxiety and feelings of dread may also be reported." [DSM-V] 
-	- HYPERAROUSAL: Anxiety/nervousness, irritability, agitation, aggression, crying spells, mood swings. Nervousness and anxiety symptoms may be mistaken for reemergent anxiety disorder
+	- SENSORY DISTURBANCES: "Brain zaps"/electric shock sensations (often with moving eyes), paresthesias, tinnitus, visual disturbances. "Frequently reported sensory and somatic symptoms include flashes of lights, “electric shock” sensations, nausea, and hyperresponsivity to noises or lights. Nonspecific anxiety and feelings of dread may also be reported." [DSM-V] 
+	- HYPERAROUSAL: Anxiety/nervousness, irritability, agitation, aggression, crying spells, mood swings, tachycardia (sometimes arrhythmias), even suicidality (Mark Horowitz). Nervousness and anxiety symptoms may be mistaken for reemergent anxiety disorder. 
 - [A 2023 survey of 344 patients](https://pubmed.ncbi.nlm.nih.gov/37253382/) found that nearly all (97.7%) reported worsening of at least one of four "core" symptoms: **dizziness, brain zaps, irritability/agitation, or anxiety/nervousness** — suggesting these four symptoms may be more specific to SRI withdrawal than the broader FINISH categories (ie "ISH" > "FIN")
+- Increase in suicide attempts in the 2 weeks after stopping an antidepressant (Valuck et al, 2009)
+- Akiathisia "can't keep still", pacing, sense of terror, nervous system feels like it is on fire. Most recognized as a side effect of long-term antipsychotics but can occur in withdrawal from antidepressants and other psychotropics as well. Often misdiagnosed as agitated depression or mania. 
 
 ![[Pasted image 20260510195111.png]]
 
 ![[Pasted image 20260513074854.png]]
 ## DDx: relapse of anxiety or depression?
 
+* Withdrawal effects are misdiagnosed as relapse of depression or anxiety
+* Clues that it is more likely withdrawal
+	* withdrawal can be quick onset, but also can be delayed
+	* specific symptoms (dizziness, brain zaps) not present before, or no new stressors like grief
+	* often quick resolution on re-instatement of antidepressant (hours to days)
 * An important finding from the 2025 JAMA Psychiatry meta-analysis: discontinuation was NOT associated with worsening depressive symptoms in the first 2 weeks, even in patients with MDD. This suggests that early mood worsening after stopping is more likely withdrawal-related anxiety/hyperarousal, while later-onset depressive symptoms (beyond 2 weeks) more likely represent true relapse.
 - "Also, in the case of stimulant augmentation of an antidepressant, abrupt cessation may result in stimulant withdrawal symptoms rather than the antidepressant discontinuation syndrome" [DSM-V]
 
+![[Pasted image 20260514201309.png]]
 # Anticipate
 
 ## Risk factors
@@ -82,6 +95,10 @@ done for now: yes
 ## Half-life
 
 Below is a comprehensive table of antidepressant half-lives compiled from FDA drug labels and recent pharmacokinetic literature, organized by class. The **half-life is the single most important pharmacokinetic parameter** influencing discontinuation syndrome risk, with shorter half-life agents (paroxetine, venlafaxine) carrying the highest risk. [OpenEvidence: various sources including the Lancet, NEJM, Seminars in Dialysis, Clinical Pharmacokinetics]
+
+Worst for stopping: paroxetine, venlafaxine, desvenlafaxine, duloxetine [Horowitz]
+Better: bupropion (more similar to an amphetamine), agamelatine [Horowitz]
+
 
 | Drug                 | Class           | Parent t½ (hours)                                | Active Metabolite (t½)                        | Discontinuation Risk |
 | -------------------- | --------------- | ------------------------------------------------ | --------------------------------------------- | -------------------- |
@@ -125,6 +142,19 @@ Below is a comprehensive table of antidepressant half-lives compiled from FDA dr
 # Management
 ## Taper
 
+### Historical guidance
+
+* "Most international depression guidelines acknowledge and support tapering of antidepressants when discontinuing them, but there remains variability in duration and types of withdrawal symptoms among antidepressants." [Kalfa et al, 2025]
+- CANMAT 2019: "we recommend slowly tapering the dose over several weeks or months", but no details on how to do this. This is based on one study that showed abruptly stopping caused too severe withdrawal effects and that 4 weeks was considered a reasonable time by the committee (expert consensus). 
+* Most common approach "over the past 2 decades" internationally: reduce dose by half for 2-4 weeks, reduce dose to quarter for 2-4 weeks (often by alternating half a tablet every second day)
+* But most people can't come off using this regimen, and leaves "at least 60% of patients trapped on their medications" [Mark Horowitz]. People turning to peer support websites like "Surviving Antidepressants" or "The Withdrawal Project", which recommend weaning at 10% of the most recent dose ever month (hyperbolic-like)
+
+DSM-V
+* "Symptoms are alleviated by restarting the same medication or starting a different medication that has a similar mechanism of action—for example, discontinuation symptoms after withdrawal from a serotonin-norepinephrine reuptake inhibitor may be alleviated by starting a tricyclic antidepressant." [DSM-V]
+- "Because longitudinal studies are lacking, little is known about the clinical course of antidepressant discontinuation syndrome. Symptoms appear to abate over time with very gradual dosage reductions. After an episode, some individuals may prefer to resume medication indefinitely if tolerated." [DSM-V]
+
+### Current evidence
+
 [OpenEvidence]
 
 - The best current evidence supports slow, gradual tapering over weeks to months — ideally using a hyperbolic dose-reduction approach — combined with psychological support as the most effective strategy for minimizing discontinuation syndrome and preventing relapse. 
@@ -139,6 +169,22 @@ Below is a comprehensive table of antidepressant half-lives compiled from FDA dr
 
 Therefore, equal absolute dose reductions (e.g., cutting by 5 mg each step) produce unequal pharmacological effects — with the final steps being the most destabilizing. Hyperbolic tapering addresses this by making progressively smaller dose reductions as the dose gets lower, achieving approximately equal reductions in SERT occupancy at each step. In practice, this means reducing by a fixed proportion of the current dose (e.g., ~10% of the current dose every 2–4 weeks), which requires reaching doses well below the minimum therapeutic dose — sometimes as low as 1/40th of the standard dose — before stopping.
 
+![[Pasted image 20260514192641.png]]
+
+![[Pasted image 20260514192652.png]]
+![[Pasted image 20260514192842.png]]
+![[Pasted image 20260514192941.png]]
+
+It's never true that when you are on a "small dose" you can just stop it. [Horowitz]
+
+In one study of 895 patients where ⅔ had been unable to stop antidepressants in usual quick linear taper, 71% were able to stop with a hyperbolic taper over months (Groot and van Os, 2018)
+
+![[Pasted image 20260514193204.png]]
+
+![[Pasted image 20260514193430.png]]
+
+"Cheat code": any immediate release tablet, put in 300mL of water, stir with spoon x 15s. If you remove 30mL per month it's 10% deduction. 
+
 ### Practical Tapering Protocols
 
 The AAFP (2023) recommends two reasonable strategies:
@@ -152,9 +198,11 @@ For high-risk drugs (paroxetine, venlafaxine, desvenlafaxine), longer tapers a
 
 ### Fluoxetine Bridging Strategy
 
-For patients struggling to discontinue short half-life SRIs (paroxetine, venlafaxine), **switching to fluoxetine** is a well-recognized strategy. Fluoxetine's long elimination half-life (~4–6 days for parent compound, ~9–19 days for norfluoxetine) provides a built-in "self-taper" that minimizes the abrupt drop in SERT occupancy. 
+For patients struggling to discontinue short half-life SRIs (paroxetine, venlafaxine), **switching to fluoxetine** is a well-recognized strategy. Fluoxetine's long elimination half-life (~4–6 days for parent compound, ~9–19 days for norfluoxetine) provides a built-in "self-taper" that minimizes the abrupt drop in SERT occupancy. That being said, Mark Horowitz does not believe this as it was extrapolated from a manufacturer's study that only looked for withdrawal symptoms for 1 week, but fluoxetine effects can be delayed and as hard to come off as any other antidepressant, just that the studies didn't look far enough...
 
 A 2025 standardized fluoxetine substitution protocol [Shapiro & Cohrs, 2025] has been proposed to facilitate this approach for patients who cannot access compounding, liquid formulations, or bead-counting methods. **Not recommended for atypical antidepressants or TCAs though like bupropion, mirtazapine, trazodone, or doxepin.** 
+
+
 
 ![[Pasted image 20260514111713.png]]
 
@@ -204,12 +252,6 @@ A major caveat: despite growing consensus, the optimal tapering protocol remain
 | Breakthrough symptoms                      | Reinstate prior dose → resume slower taper                                    |
 
 
-- "Most international depression guidelines acknowledge and support tapering of antidepressants when discontinuing them, but there remains variability in duration and types of withdrawal symptoms among antidepressants." [Kalfa et al, 2025]
-- Most common approach "over the past 2 decades": reduce dose by half for 2-4 weeks, reduce dose to quarter for 2-4 weeks (often by alternating half a tablet every second day)
-- CANMAT 2019: "we recommend slowly tapering the dose over several weeks or months", but no details on how to do this. 
-- "Symptoms are alleviated by restarting the same medication or starting a different medication that has a similar mechanism of action—for example, discontinuation symptoms after withdrawal from a serotonin-norepinephrine reuptake inhibitor may be alleviated by starting a tricyclic antidepressant." [DSM-V]
-- "Because longitudinal studies are lacking, little is known about the clinical course of antidepressant discontinuation syndrome. Symptoms appear to abate over time with very gradual dosage reductions. After an episode, some individuals may prefer to resume medication indefinitely if tolerated." [DSM-V]
-
 ## Antidotes
 
 - TCA withdrawal symptoms often respond to anticholinergic agents (atropine, benztropine)
@@ -229,6 +271,7 @@ A major caveat: despite growing consensus, the optimal tapering protocol remain
 - "This systematic review and meta-analysis of 49 randomized clinical trials found that on average, participants who stopped antidepressants experienced 1 more discontinuation symptom compared to those who discontinued placebo or continued antidepressants. The most common symptom in the first 2 weeks following antidepressant discontinuation was dizziness [followed by nausea], and discontinuation of antidepressants was not associated with depressive symptoms." [Kalfa et al, 2025]
 - "In conclusion, data from RCTs suggest that on average, those who discontinue antidepressants experience 1 more discontinuation symptom compared to placebo or continuation of antidepressants, which is below the threshold for clinically important discontinuation syndrome. Mood change was not seen in antidepressant discontinuation. While acknowledging that discontinuation symptoms exist, results of this systematic review and meta-analysis suggest that the rates are lower than those reported in prior reviews. The need for prolonged tapering regimens is open to question, with concerns previously noted, in addition to possible nocebo effects. This, therefore, requires careful examination through methodologically rigorous, placebo-controlled RCTs in real-world settings." [Kalfa et al, 2025]
 
+![[Pasted image 20260514191139.png]]
 ## Pathophysiology
 
 [OpenEvidence] 
@@ -261,6 +304,7 @@ The pathophysiology of antidepressant discontinuation syndrome remains incomple
 
 The pathophysiology is best understood as a **multi-system neuroadaptive rebound** following removal of chronic pharmacological stimulation. For SSRIs/SNRIs, the most current evidence (Collins et al. 2024) points to rebound hyperexcitability of 5-HT neurons as a central mechanism, while the SERT occupancy model provides a pharmacokinetic framework for understanding dose-dependent risk. For TCAs, cholinergic receptor supersensitization and rebound overdrive is the dominant mechanism. Across all classes, the syndrome is pharmacologically driven and does not involve drug craving or addiction pathways.
 
+![[Pasted image 20260514191239.png]]
 ## Antidepressant MOAs
 
 - **TCAs** have wide interindividual variability in half-life (e.g., nortriptyline 18–93 hours), making precise rank-ordering within the class approximate.
@@ -278,6 +322,71 @@ The pathophysiology is best understood as a **multi-system neuroadaptive reboun
 - MT Agonists refers to melatonin receptor agonists, specifically drugs that activate MT₁ and MT₂ receptors in the suprachiasmatic nucleus (SCN) of the hypothalamus — the brain's master circadian clock. The antidepressant action of **agomelatine** is thought to arise from the synergy between these two mechanisms — the melatonergic component restores circadian architecture and sleep quality, while the 5-HT₂C antagonism enhances catecholamine transmission. Importantly, agomelatine has no affinity for muscarinic, histaminergic, adrenergic, or dopaminergic receptors, and does not inhibit serotonin reuptake — which explains its favorable side effect profile (no sexual dysfunction, no weight gain, no GI effects) and its absence of discontinuation syndrome risk.
 
 
+## Protracted antidepressant withdrawal syndrome
+
+* can last up to years
+* looks like neurologic injury, trouble with balance, light sensitivity, bedbound, lost jobs. All the usual reasons when starting on them due to grief, work stress. 
+
+![[Pasted image 20260514191115.png]]
+
+A lot of people get into worse symptoms after stopping antidepressants than prior to even starting it. Wished they never started. 
+
+![[Pasted image 20260514201230.png]]
+
+## Deprescribing
+
+Why deprescribe?
+
+* NNT for an antidepressant is 7, so 6/7 will have no response
+* a lot of people using it longer than guidelines (6-12mo of therapy for anxiety/depression, many are on them for years or decades)
+* Most are prescribed at a tough point in their lives with a stressor (divorce, job loss, physical health, death in family - with relapse unlikely)
+* Alternative coping skills developed, people adapt
+* Decreased side effects: sexual s/e, emotional numbing (>50%, even in health volunteers so not due to depression), fatigue/impaired memory/concentration, insomnia, worsened anxiety or depression (tardive dysphoria), weight gain (30% in longer term studies)
+	* health: increased risk of stroke, obesity, falls, CAD, osteoporosis, premature mortality, increased bleeding risk
+* Many people believe antidepressants will correct a chemical imbalance (misleading)
+* Pregnancy (increased risk of fetal abnormality by 2.5-3 fold in first trimester)
+* Reduce pill burden, interactions with other meds
+
+![[Pasted image 20260514192414.png]]
+
+
+### Other meds
+
+Same hyperbolic curves in opioids, benzodiazepines, gabapentinoids, antipsychotics, mood stabilizers, stimulants (although generally easier to stop), even beta blockers, PPIs...
+
+
+![[Pasted image 20260514193950.png]]
+![[Pasted image 20260514194007.png]]
+
+## Informed consent
+
+* Efficacy: NNT 7, so most people they won't work
+* 15% of people will have significant effect at 8 weeks, but they wear off over time
+* S/e: emotional numbing, wt gain, cog impairment, insomnia, longer you use it the harder it is to stop, bleeding (esp if older)
+* Alternatives: most people's anxiety and mood issues stem from life circumstances. "What's the cure for depression?". People have relationship, financial, work problems, so it depends on the person. In the UK, there are 19 equally effective treatments for depression (2 are pharmacotherapy), exercise, therapy, mindfulness, problem solving therapy (single most cost effective treatment for severe depression)
+	* Name your 3 top problems, tell me the steps you will take to address the top one, come back in 2 weeks and tell me about barriers encounters or progress made. 
+	* Speaks to the issues in people's lives, not always easy to fix...
+* Doing nothing: is a highly effective treatment for depression. Recovery rate for severe depression (enough to hospitalize) at 12 mo is 85% (better for mild depression). Internal documents from big pharma: we have a real problem with depression because the recovery rate is so good, there is no space for our treatments. 
+	* "Wait and see approach": ⅔ of people were remitted within 3 months with NO treatment; secondary care (psychiatry team)
+* How to stop it: the longer you wait, the harder it'll be, you might need a liquid, might take months or years, if you do it too quickly, can lead to severe problems coming off
+* How do the drugs work? People are told it will fix a chemical imbalance in your brain. The problem is that it's not true. The real answer is that we don't know. All sorts of biological theories, but there is a very obvious reason: most people experience emotional numbing. This is very different than saying it will fix a chemical imbalance. 
+
+### EOL
+
+[Horowitz]
+
+* <3 mo? What's the point of starting antidepressants, no long term risks but you can make the last few months of her life even more horrible with these drugs
+* Lost PO access: would try to give them via liquid to prevent withdrawal
+
+### Mea culpa
+
+* https://blogs.bmj.com/bmj/2020/09/25/wendy-burn-medical-community-must-ensure-that-those-needing-support-to-come-off-anti-depressants-can-get-it/
+* analogous to the opioid epidemic, doctors can be duped, are told that these risks are minimized
+* "If I hadn't come off of them myself, and developed akiathisia and suicidality that I've never had before, I never would have understood these things. A whole systems response is needed, to reduce prescribing, to help people stop quicker, set up clinics, pathways, provide liquids. Does require political will. Hope it doesn't require lives lost or lawsuits from patients." [Horowitz]
+
+### Gun to my head?
+- would start Bupropion, with fluoxetine as a second choice. [Horowitz]
+
 
 ---
 
@@ -290,3 +399,5 @@ The pathophysiology is best understood as a **multi-system neuroadaptive reboun
 - Cochrane review 2021: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013495.pub2/full?__cf_chl_tk=yJiwJGhZbTuDSkb4B3_bwFymG7pzJW85lH25rfdjlDE-1778771272-1.0.1.1-lUYxCwZgQvUv5I3F.eYHpE4WcQ00951FJef97mvqO6o
 - 2026 Zaccoletti study in Lancet Psychiatry: https://pubmed.ncbi.nlm.nih.gov/41386898/
 - 2025 Shapiro and Cohrs fluoxetine substitution protocol: https://pubmed.ncbi.nlm.nih.gov/40610042/
+- Royal College of Psychiatry in the UK: https://www.rcpsych.ac.uk/mental-health/treatments-and-wellbeing/stopping-antidepressants
+- UBC Therapeutics Initiative: https://www.ti.ubc.ca/2025/06/18/156-antidepressant-withdrawal-syndrome-update/
