@@ -23,8 +23,8 @@ done for now: yes
 > - Similar to opioid/benzo withdrawal (physical dependence) but without drug craving reinforcing effects (psychological dependence)
 > - TCA and SNRI discontinuation can also overlap with cholinergic and noradrenergic rebound respectively
 > - Biggest risk factor is half life: paroxetine, venlafaxine, duloxetine worst; fluoxetine best by long shot due to active metabolite norfluoxetine leading to effective half-life on the order of weeks
-> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic or proportionate dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome and preventing relapse. Similar principles to benzos, opioids, Z-drugs, gabapentinoids, antipsychotics, mood stabilizers,  beta blockers, PPIs. 
-> - Fluoxetine substitution protocol (2025): gradual taper to lowest tolerable dose that is commercially available (ie by 50% q4wks), then start prozac 5mg/day for 4 weeks, then taper original SRI off and wait 4 weeks, then taper off the fluoxetine to once weekly (can also self-taper ie if losing PO access)
+> - Slow, gradual tapering over weeks to months (ideally using a hyperbolic or proportionate dose reduction approach) combined with psychological support is the most effective strategy for minimizing discontinuation syndrome. Similar principles to benzos, opioids, Z-drugs, gabapentinoids, antipsychotics, mood stabilizers,  beta blockers, PPIs. 
+> - Fluoxetine substitution protocol (2025): gradual taper to lowest tolerable dose that is commercially available (ie by 50% q4wks), then start Prozac 5mg/day for 4 weeks, then taper original SRI off and wait 4 weeks, then taper off the fluoxetine to once weekly
 
 
 ---
@@ -35,36 +35,27 @@ done for now: yes
 - "Antidepressant discontinuation syndrome is a set of symptoms that can occur after an abrupt cessation (or marked reduction in dose) of an antidepressant medication that was taken continuously for at least 1 month." [DSM-V]
 - "To qualify as antidepressant discontinuation syndrome, the symptoms should not have been present before the antidepressant dosage was reduced and are not better explained by another mental disorder (e.g., manic or hypomanic episode, substance intoxication, substance withdrawal, somatic symptom disorder)." [DSM-V]
 - "Discontinuation symptoms may occur following treatment with tricyclic antidepressants (e.g., imipramine, amitriptyline, desipramine), serotonin reuptake inhibitors (e.g., fluoxetine, paroxetine, sertraline), and monoamine oxidase inhibitors (e.g., phenelzine, selegiline, pargyline)." [DSM-V]
-- "The prevalence of antidepressant discontinuation syndrome is unknown but is thought to vary according to the dosage prior to discontinuation, the half-life and receptor-binding affinity of the medication, and possibly the individual’s genetically influenced rate of metabolism for this medication." [DSM-V]
-- Official guidance prior to 2019 [Mark Horowitz]
-	- CANMAT: "withdrawal effects are mild to moderate in severity and resolve within a few weeks". The 2024 update of Canadian depression guidelines (CANMAT) recognized that “_up to 50% of patients may experience discontinuation symptoms when stopping long-term use of antidepressants, especially with abrupt stopping_.”
-	- Influenced by papers produced by drug companies in the 1990s, which focused on people who had used antidepressants for 8-12 weeks. Then at a consensus panel organised by an antidepressant manufacturer, the euphemism 'discontinuation symptoms' was coined, and numerous papers with the description 'brief and mild' were attributed to clinicians. 
-	- But we know that the longer you use them, the more you adapt to them, the more severe and common and long lasting the withdrawal syndrome can be, so this guidance can be very misleading. Most people who use it in real life are using it for years and decades. "kind of like a car company testing a car crash at 5 km/h and saying it is safe at 60km/h" 
 
 ## Onset and Duration
 
 - "Symptoms generally **begin within 2–4 days** and typically include specific sensory, somatic, and cognitive-emotional manifestations." [DSM-V]
 - "For some people, antidepressant discontinuation symptoms can be mild and transient, but in other cases, symptoms can be more severe and last longer" [UK NICE Guidelines]
-- "Antidepressant discontinuation symptoms usually resolve within 1 to 2 weeks without treatment." [APA Guidelines]
-- Generally **peak at 1–2 weeks** following cessation (except for fluoxetine, where the long half-life delays and attenuates the peak). 
-- Duration: symptoms are usually self-limited, **typically lasting about a week**, but *can persist for weeks to months in some individuals*, particularly after abrupt discontinuation of short half-life agents.
-	- Protracted antidepressant withdrawal syndrome on the order of years!
+- Duration: symptoms are usually self-limited, typically lasting about a week, but *can persist for weeks to months or even years in some individuals*, particularly after abrupt discontinuation of short half-life agents.
 - "The antidepressant discontinuation syndrome is based solely on pharmacological factors and is not related to the reinforcing effects of an antidepressant." [DSM-V]
 
 ## Symptoms
 
-- "Unlike withdrawal syndromes associated with opioids, alcohol, and other substances of abuse, antidepressant discontinuation syndrome has no pathognomonic symptoms. Instead, the symptoms tend to be **vague and variable** and typically begin 2–4 days after the last dose of the antidepressant." [DSM-V] 
-- The Discontinuation-Emergent Signs and Symptoms (DESS) [checklist ](https://verenigingafbouwmedicatie.nl/wp-content/uploads/2025/11/DESS.pdf)is the standard research tool, and a score of ≥4 new symptoms has been used as the cutoff for clinically significant discontinuation syndrome.
+- "**Vague and variable**" [DSM-V] 
 - The **FINISH mnemonic** captures the typical symptom cluster: Flu-like symptoms, Insomnia, Nausea, Imbalance, Sensory disturbances, Hyperarousal.
 	- FLU-LIKE: Fatigue, lethargy, myalgias, chills, headache. May overlap with actual viral illness; fatigue was NOT significantly associated with discontinuation vs. placebo [Kalfa et al, 2025]
-	- INSOMNIA: Sleep disturbance, vivid/disturbing dreams, increased dreaming.  Most commonly rated "severe" on DESS
-	- NAUSEA: Nausea, vomiting, diarrhea, decreased appetite. Nausea was the 2nd most common symptom: OR 3.16 (95% CI 2.01–4.96)
-	- IMBALANCE: Dizziness, vertigo, lightheadedness, ataxia/unsteady gait. Dizziness was the single most common symptom (OR 5.52), likely related to serotonin's effects on the vestibular system
-	- SENSORY DISTURBANCES: "Brain zaps"/electric shock sensations (often with moving eyes), paresthesias, tinnitus, visual disturbances. "Frequently reported sensory and somatic symptoms include flashes of lights, “electric shock” sensations, nausea, and hyperresponsivity to noises or lights. Nonspecific anxiety and feelings of dread may also be reported." [DSM-V] 
-	- HYPERAROUSAL: Anxiety/nervousness, irritability, agitation, aggression, crying spells, mood swings, tachycardia (sometimes arrhythmias), even suicidality (Mark Horowitz). Nervousness and anxiety symptoms may be mistaken for reemergent anxiety disorder. 
+	- INSOMNIA: Sleep disturbance, vivid/disturbing dreams, increased dreaming.  Most commonly rated "severe"
+	- NAUSEA: Nausea, vomiting, diarrhea, decreased appetite. **Nausea was the 2nd most common symptom**
+	- IMBALANCE: Dizziness, vertigo, lightheadedness, ataxia/unsteady gait. **Dizziness was the single most common symptom**, likely related to serotonin's effects on the vestibular system
+	- SENSORY DISTURBANCES: "Brain zaps"/electric shock sensations (often with moving eyes), paresthesias, tinnitus, visual disturbances. Frequently reported sensory and somatic symptoms include flashes of lights, “electric shock” sensations, nausea, and hyperresponsivity to noises or lights. Nonspecific anxiety and feelings of dread may also be reported." [DSM-V] 
+	- HYPERAROUSAL: Anxiety/nervousness, irritability, agitation, aggression, crying spells, mood swings, tachycardia (sometimes arrhythmias), akathisia, even suicidality (Mark Horowitz). Nervousness and anxiety symptoms may be mistaken for reemergent anxiety disorder. 
 - [A 2023 survey of 344 patients](https://pubmed.ncbi.nlm.nih.gov/37253382/) found that nearly all (97.7%) reported worsening of at least one of four "core" symptoms: **dizziness, brain zaps, irritability/agitation, or anxiety/nervousness** — suggesting these four symptoms may be more specific to SRI withdrawal than the broader FINISH categories (ie "ISH" > "FIN")
 - Increase in suicide attempts in the 2 weeks after stopping an antidepressant (Valuck et al, 2009)
-- Akiathisia "can't keep still", pacing, sense of terror, nervous system feels like it is on fire. Most recognized as a side effect of long-term antipsychotics but can occur in withdrawal from antidepressants and other psychotropics as well. Often misdiagnosed as agitated depression or mania. 
+- Akathisia "can't keep still", pacing, sense of terror, nervous system feels like it is on fire. Most recognized as a side effect of long-term antipsychotics but can occur in withdrawal from antidepressants and other psychotropics as well. Often misdiagnosed as agitated depression or mania. 
 
 ![[Pasted image 20260510195111.png]]
 
@@ -265,6 +256,15 @@ A major caveat: despite growing consensus, the optimal tapering protocol remain
 
 # Deeper Dive
 
+## History
+
+"The prevalence of antidepressant discontinuation syndrome is unknown but is thought to vary according to the dosage prior to discontinuation, the half-life and receptor-binding affinity of the medication, and possibly the individual’s genetically influenced rate of metabolism for this medication." [DSM-V]
+- Official guidance prior to 2019 [Mark Horowitz]
+	- CANMAT: "withdrawal effects are mild to moderate in severity and resolve within a few weeks". The 2024 update of Canadian depression guidelines (CANMAT) recognized that “_up to 50% of patients may experience discontinuation symptoms when stopping long-term use of antidepressants, especially with abrupt stopping_.”
+	- Influenced by papers produced by drug companies in the 1990s, which focused on people who had used antidepressants for 8-12 weeks. Then at a consensus panel organised by an antidepressant manufacturer, the euphemism 'discontinuation symptoms' was coined, and numerous papers with the description 'brief and mild' were attributed to clinicians. 
+	- But we know that the longer you use them, the more you adapt to them, the more severe and common and long lasting the withdrawal syndrome can be, so this guidance can be very misleading. Most people who use it in real life are using it for years and decades. "kind of like a car company testing a car crash at 5 km/h and saying it is safe at 60km/h" 
+
+
 ## Incidence
 
 - "The incidence of this syndrome depends on the dosage and half-life of the medication being taken, as well as the rate at which the medication is tapered. Short-acting medications that are stopped abruptly rather than tapered gradually may pose the greatest risk. The short-acting selective serotonin reuptake inhibitor (SSRI) paroxetine is the agent most commonly associated with discontinuation symptoms, but such symptoms occur for all types of antidepressants." [DSM-V]
@@ -272,6 +272,9 @@ A major caveat: despite growing consensus, the optimal tapering protocol remain
 - "In conclusion, data from RCTs suggest that on average, those who discontinue antidepressants experience 1 more discontinuation symptom compared to placebo or continuation of antidepressants, which is below the threshold for clinically important discontinuation syndrome. Mood change was not seen in antidepressant discontinuation. While acknowledging that discontinuation symptoms exist, results of this systematic review and meta-analysis suggest that the rates are lower than those reported in prior reviews. The need for prolonged tapering regimens is open to question, with concerns previously noted, in addition to possible nocebo effects. This, therefore, requires careful examination through methodologically rigorous, placebo-controlled RCTs in real-world settings." [Kalfa et al, 2025]
 
 ![[Pasted image 20260514191139.png]]
+
+- The Discontinuation-Emergent Signs and Symptoms (DESS) [checklist ](https://verenigingafbouwmedicatie.nl/wp-content/uploads/2025/11/DESS.pdf)is the standard research tool, and a score of ≥4 new symptoms has been used as the cutoff for clinically significant discontinuation syndrome.
+
 ## Pathophysiology
 
 [OpenEvidence] 
